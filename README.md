@@ -1,6 +1,7 @@
 # LinuxConfig
-Documentation for Udacity Fullstack Nanodegree Program Project 7
+This is step-by-step documentation for Udacity Fullstack Nanodegree Program Project 7. The goal is to set up an Amazon Web Service Linux server to host the blog project earlier in the course while enforcing security and connecting to a PostgreSQL database.
 
+##Steps
 Login: ssh -i ~/.ssh/id_rsa grader@35.166.186.239 -p 2200
 URL: http://ec2-35-166-186-239.us-west-2.compute.amazonaws.com/
 
